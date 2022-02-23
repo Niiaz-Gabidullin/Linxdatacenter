@@ -1,0 +1,24 @@
+//Create react with ts 
+npx create-react-app my-app --template typescript
+
+//React redux
+npm install react-redux
+
+//@reduxjs/toolkit
+npm install @reduxjs/toolkit
+
+
+//Install mui
+npm install @mui/material @emotion/react @emotion/styled
+npm install @mui/material @mui/styled-engine-sc styled-components
+npm install @mui/icons-material
+
+
+//Install react-router-dom for Ts
+npm install --save @types/react-router-dom
+
+//Install yup
+npm i yup
+
+//Install formik
+npm i formik
